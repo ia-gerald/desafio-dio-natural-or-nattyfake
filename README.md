@@ -53,7 +53,7 @@ Seguem as fotos geradas referentes a descrição 1 e 2 acima citadas.
 
 ## 💭 Reflexão 
 Ainda é preciso aperfeiçoar o uso dos meus prompts, mas para um iniciante, 
-senti-me supreeendido com o resultado e a velocidade de resposta da ferramenta.
+fiquei supreendido com o resultado e a velocidade de resposta da IA MAGE.
 
 <!-- ocultar 
 1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
