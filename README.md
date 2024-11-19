@@ -16,6 +16,9 @@ Olá pessoal, "no ar" Gerald, aluno da DIO! Inspirado na hype _"Natty or Not"_ d
 > O Profº Venilton aparece parcialmente como "Natural com toque de Fake Natty" na vídeo aula. Há uma falta de naturalidade nos movimentos da cabeça e do corpo, que parecem estar "pré-programados", com a IA completando o resto. Isso cria a impressão de um avatar digital, o que pode ser considerado "Fake Natty".
 > 
 > Por outro lado, sabemos que o conteúdo foi criado de alguma forma por ele, do qual tem total capacidade de criá-lo 100% sem uso de qualquer IA para revisar ou aprimorar o roteiro. Nesse caso, poderia ser considerado "Natural".
+> 
+> ## 🤖 Tecnologia Utilizada
+> Criei a resposta pelo meu ponto de vista num bloco de notas. Depois apliquei no ChatGPT 3.5 para revisar a gramática, concordância e deixar mais sucinta a resposta.
 
 ####################################################
 
@@ -26,25 +29,25 @@ Olá pessoal, "no ar" Gerald, aluno da DIO! Inspirado na hype _"Natty or Not"_ d
 ### 2) Testando I.A. para geração de imagem ;)
 
 > ## 📒 Descrição
-> Através de I.A. generativa, criou-se um prompt com de tesrae e criar algumas imagens buscando características de foto real, natural.
+> Através de I.A. generativa, criou-se um prompt para criar algumas imagens buscando características de fotos reais, naturais.
 > 
-> ## 🤖 Tecnologias Utilizadas
-> Utilizada o ChatGPT 3.5 para revisar a resposta do desafio e a IA MAGE (https://www.mage.space/) para geração das "fotos".
+> ## 🤖 Tecnologia Utilizada
+> Utilizada a IA MAGE (https://www.mage.space/) para geração das "fotos reais, naturais".
 > 
 > ## 🧐 Processo de Criação
-> - Criar imagem o mais próximo do real (similar a uma fotografia)- Tema utilizado: futebol, pré-adolescentes, marca nike
-> - definir cores das roupas e características dos "atores"
-> - criar 02 prompts simalares para buscar resultados diferentes , ou seja, com poucas mudanças
+> - Criar imagem o mais próximo do real (similar a uma fotografia)
+> - Tema utilizado: futebol, pré-adolescentes, marca nike
+> - Definiçãoo de detalhes como cores das roupas e características dos "atores"
+> - Eleborar 02 prompts similares para buscar resultados diferentes, ou seja, com poucas mudanças dentro do mesmo conteúdo
 > - Seguem os prompts utilizados:
->   
->   nº 1 - 02 irmãos gemeos em direções opostas, sendo uma crianca de 10 anos. Bone da marca lacoste. Óculos de sol da google. 
->        Camisa branca da nike. Shorts vermelho. Local: campo de futebol com luz do sol.
->   
->   nº 2 - 02 irmãos gemeos em direções opostas, sendo uma crianca de 10 anos. Bone da marca lacoste. Óculos de sol da google. 
->        Na camisa branca da nike tenha o texto DIO. Shorts vermelho. Local: campo de futebol com luz do sol.
+> > - 1.)   02 irmãos gêmeos em direções opostas, sendo uma criança de 10 anos. Bone da marca Lacoste. Óculos de sol da google. 
+> > Camisa branca da Nike. Shorts vermelho. Local: campo de futebol com luz do sol.
+> >
+> > - 2.)   02 irmãos gêmeos em direções opostas, sendo uma criança de 10 anos. Bone da marca Lacoste. Óculos de sol da google. 
+> > Na camisa branca da Nike tenha o texto DIO. Shorts vermelho. Local: campo de futebol com luz do sol.
 > 
 > ## 🚀 Resultados
-> Seguem as "fotos" geradas referentes a descrição dos prompts nr 1 e nr 2 acima citadas.
+> Seguem as "fotos" geradas com base dos prompts nº 1 e nº 2 acima citados.
 > # ![mage-foto2-garotos2](https://github.com/user-attachments/assets/12c9bebd-2e37-436e-8bd9-c734ef834dcd)
 > 
 > # ![mage-foto2-garotos](https://github.com/user-attachments/assets/36077d3a-816d-46f3-b67b-217d95bd78a8)
