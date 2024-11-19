@@ -1,7 +1,5 @@
 # Desafio-dio-natural-or-nattyfake
   Referente ao desafio curso DIO usando IA para fazer algo bem próximo ao humano (nov/2024).
-  
-
 
 # Aprendendo a usar o GitHub para criar repositório de I.A.´s generativas
 
@@ -67,6 +65,9 @@ fiquei supreendido com o resultado e a velocidade de resposta da IA MAGE.
 
 ### Template
 
+
+
+
 ```markdown
 ## Testando I.A. para geração de imagem ;)
 
@@ -86,21 +87,14 @@ Utilizada a IA MAGE (https://www.mage.space/).
    2 - 02 irmãos gemeos em direções opostas, sendo uma crianca de 10 anos. Bone da marca lacoste. Óculos de sol da google. 
        Na camisa branca da nike tenha o texto DIO. Shorts vermelho. Local: campo de futebol com luz do sol.
 
+/mage-foto2-garotos.jpg
+
 ## 🚀 Resultados
 Seguem as fotos geradas referentes a descrição 1 e 2 acima citadas.
 
 ## 💭 Reflexão 
 Ainda é preciso aperfeiçoar o uso dos meus prompts, mas para um iniciante, 
 senti-me supreeendido com o resultado e a velocidade de resposta da ferramenta.
-
-**O Profº Venilton é parcialmente "Natural com toque de Fake Natty" na vídeo aula. Percebo um falta de maior naturalidade no vídeo, onde 100% o corpo e a cabeça.
-Olhadno com mais detalhes dá para perceber que a sincronicação dos movimentos realizados pela cabeça estão "prefixados" num deteminado campo, da qual a I.A. complementou com o resto do corpo. Nesse quesito, seria como quase um avatar 100% digital o que podemos designar como "Fake Natty".
-
-Por outro lado, sabemos que é ele quem criou o conteúdo, seja com apoio de alguma I.A. de Chat para
-criação, melhoria, ou, até mesmo a revisão do que escreveu para geração dop conteúdo do vídeo.
-Olhando por este lado podemos dizer que é foi "Natural", pois, acredito na capacidade dele
-criar 100% a redação do roteiro sem precisar da I.A. considerando principalmente a percepção de uma pessoa
-com limitações visuais.**
 
 ```
 
