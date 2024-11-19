@@ -7,51 +7,51 @@
 
 > Hiii! Look at this 👀
 
-Olá pessoal, "no ar" Gerald, aluno da DIO! Inspirado na hype _"Natty or Not"_ do fisiculturismo, desafio do professor Venilto da DIO, vem apresentar os primeiros passos de uso de IAs para criação de imagens!
+Olá pessoal, "no ar" Gerald, aluno da DIO! Inspirado na hype _"Natty or Not"_ do fisiculturismo, desafio do professor Venilton da DIO, venho apresentar os primeiros passos no uso de IAs Generativas para criação de imagens realisticas!
 
-## 🎯 Segue a resposta do Desafio!💪🤓
+## 🎯 Seguem as respostas do Desafio!💪🤓
 
-### Resposta da primeira pergunta realiada pelo Professor Venilton: "... sou Natural ou NattyFake?" :
+### 1) Sobre a pergunta realizada pelo Professor Venilton: "... sou Natural ou NattyFake?" :
 
-O Profº Venilton é parcialmente "Natural com toque de Fake Natty" na vídeo aula. Percebo um falta de maior naturalidade no vídeo, onde 100% o corpo e a cabeça.
-Olhadno com mais detalhes dá para perceber que a sincronicação dos movimentos realizados pela cabeça estão "prefixados" num deteminado campo, da qual a I.A. complementou com o resto do corpo. Nesse quesito, seria como quase um avatar 100% digital o que podemos designar como "Fake Natty".
-
-Por outro lado, sabemos que é ele quem criou o conteúdo, seja com apoio de alguma I.A. de Chat para
-criação, melhoria, ou, até mesmo a revisão do que escreveu para geração dop conteúdo do vídeo.
-Olhando por este lado podemos dizer que é foi "Natural", pois, acredito na capacidade dele
-criar 100% a redação do roteiro sem precisar da I.A. considerando principalmente a percepção de uma pessoa
-com limitações visuais.
+> O Profº Venilton aparece parcialmente como "Natural com toque de Fake Natty" na vídeo aula. Há uma falta de naturalidade nos movimentos da cabeça e do corpo, que parecem estar "pré-programados", com a IA completando o resto. Isso cria a impressão de um avatar digital, o que pode ser considerado "Fake Natty".
+> 
+> Por outro lado, sabemos que o conteúdo foi criado de alguma forma por ele, do qual tem total capacidade de criá-lo 100% sem uso de qualquer IA para revisar ou aprimorar o roteiro. Nesse caso, poderia ser considerado "Natural".
 
 ####################################################
 
- Agora, Profº Veniltom nos conta ai como fez e quais as I.A.´s utilizou?
+ 👀 Agora, Profº Veniltom nos conta ai como fez e quais as I.A.´s utilizou? 👀
 
 ####################################################
 
-## Testando I.A. para geração de imagem ;)
+### 2) Testando I.A. para geração de imagem ;)
 
-## 📒 Descrição
-Através de I.A. generativa, criou-se um prompt com de tesrae e criar algumas imagens buscando características de foto real, natural.
-
-## 🤖 Tecnologias Utilizadas
-Utilizada a IA MAGE (https://www.mage.space/).
-
-## 🧐 Processo de Criação
-- Criar imagem o mais próximo do real (similar a uma fotografia)- Tema utilizado: futebol, pré-adolescentes, marca nike
-- definir cores das roupas e características dos "atores"
-- criar 02 prompts simalares para buscar resultados diferentes , ou seja, com poucas mudanças
-- Seguem os prompts utiliozados:
-   1 - 02 irmãos gemeos em direções opostas, sendo uma crianca de 10 anos. Bone da marca lacoste. Óculos de sol da google. 
-       Camisa branca da nike. Shorts vermelho. Local: campo de futebol com luz do sol.
-   2 - 02 irmãos gemeos em direções opostas, sendo uma crianca de 10 anos. Bone da marca lacoste. Óculos de sol da google. 
-       Na camisa branca da nike tenha o texto DIO. Shorts vermelho. Local: campo de futebol com luz do sol.
-
-## 🚀 Resultados
-Seguem as fotos geradas referentes a descrição 1 e 2 acima citadas.
-
-## 💭 Reflexão 
-Ainda é preciso aperfeiçoar o uso dos meus prompts, mas para um iniciante, 
-fiquei supreendido com o resultado e a velocidade de resposta da IA MAGE.
+> ## 📒 Descrição
+> Através de I.A. generativa, criou-se um prompt com de tesrae e criar algumas imagens buscando características de foto real, natural.
+> 
+> ## 🤖 Tecnologias Utilizadas
+> Utilizada o ChatGPT 3.5 para revisar a resposta do desafio e a IA MAGE (https://www.mage.space/) para geração das "fotos".
+> 
+> ## 🧐 Processo de Criação
+> - Criar imagem o mais próximo do real (similar a uma fotografia)- Tema utilizado: futebol, pré-adolescentes, marca nike
+> - definir cores das roupas e características dos "atores"
+> - criar 02 prompts simalares para buscar resultados diferentes , ou seja, com poucas mudanças
+> - Seguem os prompts utilizados:
+>   
+>   nº 1 - 02 irmãos gemeos em direções opostas, sendo uma crianca de 10 anos. Bone da marca lacoste. Óculos de sol da google. 
+>        Camisa branca da nike. Shorts vermelho. Local: campo de futebol com luz do sol.
+>   
+>   nº 2 - 02 irmãos gemeos em direções opostas, sendo uma crianca de 10 anos. Bone da marca lacoste. Óculos de sol da google. 
+>        Na camisa branca da nike tenha o texto DIO. Shorts vermelho. Local: campo de futebol com luz do sol.
+> 
+> ## 🚀 Resultados
+> Seguem as "fotos" geradas referentes a descrição dos prompts nr 1 e nr 2 acima citadas.
+> # ![mage-foto2-garotos2](https://github.com/user-attachments/assets/12c9bebd-2e37-436e-8bd9-c734ef834dcd)
+> 
+> # ![mage-foto2-garotos](https://github.com/user-attachments/assets/36077d3a-816d-46f3-b67b-217d95bd78a8)
+> 
+> ## 💭 Reflexão 
+> Ainda é preciso aperfeiçoar o uso dos meus prompts, mas, para um iniciante, 
+> fiquei supreso com o resultado e a velocidade de resposta da IA MAGE.
 
 <!-- ocultar 
 1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
