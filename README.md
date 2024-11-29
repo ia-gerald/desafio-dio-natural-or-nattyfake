@@ -13,7 +13,7 @@ Olá pessoal, "no ar" Gerald, aluno da DIO! Inspirado na hype _"Natty or Not"_ d
 
 ### 1) Sobre a pergunta realizada pelo Professor Venilton: "... sou Natural ou NattyFake?" :
 
-> O Profº Venilton aparece parcialmente como "Natural com toque de Fake Natty" na vídeo aula. Há uma falta de naturalidade nos movimentos da cabeça e do corpo, que parecem estar "pré-programados", com a IA completando o resto. Isso cria a impressão de um avatar digital, o que pode ser considerado "Fake Natty".
+> O Profº Venilton é apresentado parcialmente como "Natural com toque de Fake Natty" na vídeo aula. Existe uma falta de naturalidade nos movimentos da cabeça e do corpo, que dão a impressão de estarem "pré-programados", com a IA completando os detalhes. Isso transmite a sensação de um avatar digital, o que pode ser interpretado como "Fake Natty".
 > 
 > Por outro lado, sabemos que o conteúdo foi criado de alguma forma por ele, do qual tem total capacidade de criá-lo 100% sem uso de qualquer IA para revisar ou aprimorar o roteiro. Nesse caso, poderia ser considerado "Natural".
 > 
