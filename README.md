@@ -29,16 +29,16 @@ Olá pessoal, "no ar" Gerald, aluno da DIO! Inspirado na hype _"Natty or Not"_ d
 ### 2) Testando I.A. para geração de imagem ;)
 
 > ## 📒 Descrição
-> Através de I.A. generativa, criou-se um prompt para criar algumas imagens buscando características de fotos reais, naturais.
+> Através de I.A. generativa, eleborei um prompt para criar algumas imagens buscando características de fotos reais, naturais.
 > 
 > ## 🤖 Tecnologia Utilizada
 > Utilizada a IA MAGE (https://www.mage.space/) para geração das "fotos reais, naturais".
 > 
 > ## 🧐 Processo de Criação
-> - Criar imagem o mais próximo do real (similar a uma fotografia)
-> - Tema utilizado: futebol, pré-adolescentes, marca nike
-> - Definiçãoo de detalhes como cores das roupas e características dos "atores"
-> - Eleborar 02 prompts similares para buscar resultados diferentes, ou seja, com poucas mudanças dentro do mesmo conteúdo
+> - Criação imagem o mais próximo do real (similar a uma fotografia)
+> - Tema utilizado: futebol, pré-adolescentes, marca Nike e Lacoste
+> - Definição dos detalhes no prompt como: cores das roupas e características dos "atores"
+> - Elaboração de 02 prompts similares para buscar resultados diferentes, ou seja, com poucas mudanças dentro do mesmo conteúdo
 > - Seguem os prompts utilizados:
 > > - 1.)   02 irmãos gêmeos em direções opostas, sendo uma criança de 10 anos. Bone da marca Lacoste. Óculos de sol da google. 
 > > Camisa branca da Nike. Shorts vermelho. Local: campo de futebol com luz do sol.
@@ -47,7 +47,7 @@ Olá pessoal, "no ar" Gerald, aluno da DIO! Inspirado na hype _"Natty or Not"_ d
 > > Na camisa branca da Nike tenha o texto DIO. Shorts vermelho. Local: campo de futebol com luz do sol.
 > 
 > ## 🚀 Resultados
-> Seguem as "fotos" geradas com base dos prompts nº 1 e nº 2 acima citados.
+> Seguem as "fotos" geradas com base nos prompts nº 1 e nº 2 acima citados.
 > # ![mage-foto2-garotos2](https://github.com/user-attachments/assets/12c9bebd-2e37-436e-8bd9-c734ef834dcd)
 > 
 > # ![mage-foto2-garotos](https://github.com/user-attachments/assets/36077d3a-816d-46f3-b67b-217d95bd78a8)
